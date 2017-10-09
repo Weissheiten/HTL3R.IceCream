@@ -1,0 +1,18 @@
+{
+    "name": "htl3r/icecream",
+    "description": "Provides base classes for calculating the volume of ice cream containers",
+    "type": "library",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Florian Weiss",
+            "email": "github@weissheiten.at"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "HTL3R\\IceCream\\": "src/"
+        }
+    },
+    "require": {}
+}
